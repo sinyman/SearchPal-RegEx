@@ -5,7 +5,7 @@ A Chrome extension for searching web pages using regular expressions
 I use the standard Chrome search functionality quite a lot, but one day I wondered whether it was possible to search using regex.
 After some searching I discovered that it wasn't possible, and decided that this is something that I really could use, so
 I decided to try and make it myself.
-Also:
+</br>Also:
 - Want to learn JavaScript & RegEx better
 - Been looking for a coding project
 
