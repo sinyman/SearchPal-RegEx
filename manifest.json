@@ -1,0 +1,11 @@
+{
+ “manifest_version”: 2,
+ “name”: “SearchPal”,
+ “description”: “Search websites easily with regular expressions”,
+ “version”: “1.0”,
+ “author”: “Simon Nyman”
+ 
+ "browser_action": {
+	"default_popup": "popup.html"
+ }
+}
