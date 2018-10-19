@@ -1,3 +1,5 @@
+
+// Basic main function, first to be called
 function searchWords() {
     markWords();
 }
