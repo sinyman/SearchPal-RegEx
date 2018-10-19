@@ -1,5 +1,5 @@
 # SearchPal-RegEx (WIP)
-A Chrome extension for searching web pages using regular expressions
+A Chrome extension for searching web pages and extracting matching strings using regular expressions
 
 ## Why?
 I use the standard Chrome search functionality quite a lot, but one day I wondered whether it was possible to search using regex.
